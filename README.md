@@ -20,7 +20,7 @@ An automated Python script that books "Short Cut" appointments at Bishops Cupert
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/hair-cut-booking.git
+git clone https://github.com/magrawa2/hair-cut-booking.git
 cd hair-cut-booking
 ```
 
